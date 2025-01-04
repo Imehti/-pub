@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:hover {
+    background-color: #f9f9f9;
+  }
+  
