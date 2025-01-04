@@ -1,7 +1,8 @@
+import ExelUploader from "./ExelUploader"
 
 const App = () => {
   return (
-    <div>App</div>
+    <div><ExelUploader /></div>
   )
 }
 
